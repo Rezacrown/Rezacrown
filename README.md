@@ -8,7 +8,6 @@ My name is Rizky Reza and I am a 19-year-old web developer. I am passionate abou
 
 * 🌍  I'm based in East Kalimantan, Indonesia
 * 🖥️  See my portfolio at [My Portofolio](https://rizkyreza.xyz)
-* ✉️  You can contact me at [aryhidayatfebriana@gmail.com](mailto:aryhidayatfebriana@gmail.com)
 * 🧠  I'm learning NUXT JS, PostgreSQL, Redis, Golang, React Native
 * 🤝  I'm open to collaborating on Any opportunity
 
