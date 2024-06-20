@@ -1,0 +1,3 @@
+color
+    primary = #392d69
+    secondar = #b57bee
