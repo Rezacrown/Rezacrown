@@ -7,7 +7,8 @@
 <div align="center">
   <h1 style="font-size: 2.5em;">✨ Welcome to My Github Profile ✨</h1>
   <h2 style="color:#dbfddc;">Rizky Reza</h2>
-  <h3>Software Engineer | Web3 Builder | DeFi & NFT Focuses | Visual</h3>
+  <h3>Software Engineer | Web3 Builder | DeFi & NFT Focuses | Visual Novel Enjoyer📖
+  </h3>
 
   <p>
     <a href="https://linkedin.com/in/rizky-reza">
@@ -71,7 +72,7 @@ Like an artisan in a Ghibli film meticulously crafting their tools, I build robu
     </td>
     <td><br>Advanced testing and script deployment environment.</td>
     <td align="center">
-      <img src="https://images.seeklogo.com/logo-png/42/1/hardhat-logo-png_seeklogo-426726.png" width="40" alt="Hardhat" /><br>
+      <img src="./assets/logo/hardhat.png" width="40" alt="Hardhat" /><br>
       <b>Hardhat</b>
     </td>
     <td><br>Standard EVM deployment & testing framework.</td>
@@ -103,7 +104,7 @@ Like an artisan in a Ghibli film meticulously crafting their tools, I build robu
     </td>
     <td><br>Lightweight global state management.</td>
     <td align="center">
-      <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40" alt="TanStack Query" /><br>
+      <img src="./assets/logo/tanstack.png" width="40" alt="TanStack Query" /><br>
       <b>TanStack</b>
     </td>
     <td><br>Async state & server data handling.</td>
@@ -147,7 +148,7 @@ Like an artisan in a Ghibli film meticulously crafting their tools, I build robu
     </td>
     <td><br>Python-based backend for AI services.</td>
     <td align="center">
-      <img src="https://images.seeklogo.com/logo-png/61/2/langchain-logo-png_seeklogo-611654.png" width="40" alt="LangChain" /><br>
+      <img src="./assets/logo/langchain.png" width="40" alt="LangChain" /><br>
       <b>LangChain</b>
     </td>
     <td><br>Orchestrating AI Agents and RAG.</td>
